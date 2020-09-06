@@ -1,0 +1,14 @@
+D:\2\less\Step\repos\DZ28\ContactBook\bin\Debug\ContactBook.exe.config
+D:\2\less\Step\repos\DZ28\ContactBook\bin\Debug\ContactBook.exe
+D:\2\less\Step\repos\DZ28\ContactBook\bin\Debug\ContactBook.pdb
+D:\2\less\Step\repos\DZ28\ContactBook\obj\Debug\ContactBook.csprojAssemblyReference.cache
+D:\2\less\Step\repos\DZ28\ContactBook\obj\Debug\ContactBook.Form1.resources
+D:\2\less\Step\repos\DZ28\ContactBook\obj\Debug\ContactBook.Properties.Resources.resources
+D:\2\less\Step\repos\DZ28\ContactBook\obj\Debug\ContactBook.csproj.GenerateResource.cache
+D:\2\less\Step\repos\DZ28\ContactBook\obj\Debug\ContactBook.csproj.CoreCompileInputs.cache
+D:\2\less\Step\repos\DZ28\ContactBook\obj\Debug\ContactBook.exe
+D:\2\less\Step\repos\DZ28\ContactBook\obj\Debug\ContactBook.pdb
+D:\2\less\Step\repos\DZ28\ContactBook\obj\Debug\ContactBook.AddPersonForm.resources
+D:\2\less\Step\repos\DZ28\ContactBook\obj\Debug\ContactBook.AddCategoryForm.resources
+D:\2\less\Step\repos\DZ28\ContactBook\obj\Debug\ContactBook.EditPersonForm.resources
+D:\2\less\Step\repos\DZ28\ContactBook\obj\Debug\ContactBook.SearchForm.resources

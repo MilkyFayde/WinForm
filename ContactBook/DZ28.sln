@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactBook", "ContactBook\ContactBook.csproj", "{FABD28D6-86BB-4257-8D7A-EA344D5257EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicturesFragNDrop", "PicturesFragNDrop\PicturesFragNDrop.csproj", "{7C8DC745-33D1-400E-90A5-153DD5E5FEED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FABD28D6-86BB-4257-8D7A-EA344D5257EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABD28D6-86BB-4257-8D7A-EA344D5257EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABD28D6-86BB-4257-8D7A-EA344D5257EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABD28D6-86BB-4257-8D7A-EA344D5257EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C8DC745-33D1-400E-90A5-153DD5E5FEED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C8DC745-33D1-400E-90A5-153DD5E5FEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C8DC745-33D1-400E-90A5-153DD5E5FEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C8DC745-33D1-400E-90A5-153DD5E5FEED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDE15E78-9245-42FD-9515-8921A928BFB2}
+	EndGlobalSection
+EndGlobal

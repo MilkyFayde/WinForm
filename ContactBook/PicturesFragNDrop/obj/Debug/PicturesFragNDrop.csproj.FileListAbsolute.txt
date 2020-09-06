@@ -1,0 +1,11 @@
+D:\2\less\Step\repos\DZ28\PicturesFragNDrop\bin\Debug\PicturesFragNDrop.exe.config
+D:\2\less\Step\repos\DZ28\PicturesFragNDrop\bin\Debug\PicturesFragNDrop.exe
+D:\2\less\Step\repos\DZ28\PicturesFragNDrop\bin\Debug\PicturesFragNDrop.pdb
+D:\2\less\Step\repos\DZ28\PicturesFragNDrop\obj\Debug\PicturesFragNDrop.csprojAssemblyReference.cache
+D:\2\less\Step\repos\DZ28\PicturesFragNDrop\obj\Debug\PicturesFragNDrop.Form1.resources
+D:\2\less\Step\repos\DZ28\PicturesFragNDrop\obj\Debug\PicturesFragNDrop.PictureForm.resources
+D:\2\less\Step\repos\DZ28\PicturesFragNDrop\obj\Debug\PicturesFragNDrop.Properties.Resources.resources
+D:\2\less\Step\repos\DZ28\PicturesFragNDrop\obj\Debug\PicturesFragNDrop.csproj.GenerateResource.cache
+D:\2\less\Step\repos\DZ28\PicturesFragNDrop\obj\Debug\PicturesFragNDrop.csproj.CoreCompileInputs.cache
+D:\2\less\Step\repos\DZ28\PicturesFragNDrop\obj\Debug\PicturesFragNDrop.exe
+D:\2\less\Step\repos\DZ28\PicturesFragNDrop\obj\Debug\PicturesFragNDrop.pdb

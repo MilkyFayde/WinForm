@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Group>
+  <Person FName="Kynan" LName="Fleming" Address="Donetsk, Artema, 155, 33" PhoneNumber="+380713335522" Category="Friend" PicPath="Photos\ae2940ba-e082-491c-885c-147354154d37.jpg" />
+  <Person FName="Kobie" LName="Archer" Address="Donetsk, Kuybisheva, 121, 21" PhoneNumber="+380714442321" Category="Work" PicPath="Photos\1310d4a1-0b53-42a1-9387-ff9f8b8e8b8e.png" />
+  <Person FName="Chelsea" LName="Harrington" Address="Donetsk, Mira, 104, 10" PhoneNumber="+380712234343" Category="Family" PicPath="Photos\ea59ac12-3e11-494c-8f6f-b031f91fc8b4.jpg" />
+  <Person FName="Darla" LName="Bruce" Address="Makeevka, Lenina, 55, 21" PhoneNumber="+380715559912" Category="Work" PicPath="Photos\2c7df459-a4c0-4a32-9247-28efd6f0de49.jpg" />
+  <Person FName="Emillie" LName="Novak" Address="Makeevka, Lenina, 51, 22" PhoneNumber="+380710033300" Category="Work" PicPath="Photos\7f68c13f-7b0d-44dc-9e6b-6ac80a3f9045.jpg" />
+  <Person FName="Tania" LName="Joyner" Address="Donetsk, Artema, 101, 133" PhoneNumber="+380715152533" Category="Family" PicPath="Photos\0dc04c9c-3742-4e97-8429-0ad590d7b3fc.png" />
+  <Person FName="Ellisha" LName="Wooten" Address="Dontesk, Lenina, 90, 29" PhoneNumber="+380719090909" Category="Friend" PicPath="Photos\498fed4e-f2b2-44a2-9a38-82142cf03691.jpg" />
+  <Person FName="Maleeha" LName="Larson" Address="Makeevka, Lenina, 39, 15" PhoneNumber="+380719955999" Category="NewCategor" PicPath="Photos\5c4992d8-b7f9-4d4a-9a0f-4658df65697c.jpg" />
+  <Person FName="Anita" LName="Cooper" Address="Donetsk, Mira, 10, 8" PhoneNumber="+380716767676" Category="Work" PicPath="Photos\63e45299-9a4d-4b35-8498-3f5f038f17da.jpg" />
+</Group>
