@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ29", "DZ29\DZ29.csproj", "{929E3556-1EA5-462D-A893-9CF54B9BF298}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paint", "Paint\Paint.csproj", "{3FE1047F-53CF-4D13-8A65-E0E8B705BD90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{929E3556-1EA5-462D-A893-9CF54B9BF298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{929E3556-1EA5-462D-A893-9CF54B9BF298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{929E3556-1EA5-462D-A893-9CF54B9BF298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{929E3556-1EA5-462D-A893-9CF54B9BF298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FE1047F-53CF-4D13-8A65-E0E8B705BD90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE1047F-53CF-4D13-8A65-E0E8B705BD90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FE1047F-53CF-4D13-8A65-E0E8B705BD90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FE1047F-53CF-4D13-8A65-E0E8B705BD90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33DBD02A-04BA-4036-B0C4-FA1E2C75F5F2}
+	EndGlobalSection
+EndGlobal

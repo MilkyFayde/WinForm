@@ -1,0 +1,13 @@
+D:\2\less\Step\repos\FileManager\DZ29\bin\Debug\DZ29.exe.config
+D:\2\less\Step\repos\FileManager\DZ29\bin\Debug\DZ29.exe
+D:\2\less\Step\repos\FileManager\DZ29\bin\Debug\DZ29.pdb
+D:\2\less\Step\repos\FileManager\DZ29\obj\Debug\DZ29.csprojAssemblyReference.cache
+D:\2\less\Step\repos\FileManager\DZ29\obj\Debug\DZ29.MainForm.resources
+D:\2\less\Step\repos\FileManager\DZ29\obj\Debug\DZ29.Properties.Resources.resources
+D:\2\less\Step\repos\FileManager\DZ29\obj\Debug\DZ29.csproj.GenerateResource.cache
+D:\2\less\Step\repos\FileManager\DZ29\obj\Debug\DZ29.csproj.CoreCompileInputs.cache
+D:\2\less\Step\repos\FileManager\DZ29\obj\Debug\DZ29.exe
+D:\2\less\Step\repos\FileManager\DZ29\obj\Debug\DZ29.pdb
+D:\2\less\Step\repos\FileManager\DZ29\obj\Debug\DZ29.CreateFolderForm.resources
+D:\2\less\Step\repos\FileManager\DZ29\obj\Debug\DZ29.RenameForm.resources
+D:\2\less\Step\repos\FileManager\DZ29\obj\Debug\DZ29.SearchForm.resources

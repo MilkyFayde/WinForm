@@ -1,0 +1,11 @@
+D:\2\less\Step\repos\FileManager\Paint\bin\Debug\Paint.exe.config
+D:\2\less\Step\repos\FileManager\Paint\bin\Debug\Paint.exe
+D:\2\less\Step\repos\FileManager\Paint\bin\Debug\Paint.pdb
+D:\2\less\Step\repos\FileManager\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+D:\2\less\Step\repos\FileManager\Paint\obj\Debug\Paint.MainPaintForm.resources
+D:\2\less\Step\repos\FileManager\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\2\less\Step\repos\FileManager\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\2\less\Step\repos\FileManager\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\2\less\Step\repos\FileManager\Paint\obj\Debug\Paint.exe
+D:\2\less\Step\repos\FileManager\Paint\obj\Debug\Paint.pdb
+D:\2\less\Step\repos\FileManager\Paint\obj\Debug\Paint.PaintForm.resources
