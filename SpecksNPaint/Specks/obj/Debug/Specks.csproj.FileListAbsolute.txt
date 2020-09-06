@@ -1,0 +1,20 @@
+D:\2\less\Step\repos\ExamWinForm\Specks\bin\Debug\Specks.exe.config
+D:\2\less\Step\repos\ExamWinForm\Specks\bin\Debug\Specks.exe
+D:\2\less\Step\repos\ExamWinForm\Specks\bin\Debug\Specks.pdb
+D:\2\less\Step\repos\ExamWinForm\Specks\obj\Debug\Specks.csprojAssemblyReference.cache
+D:\2\less\Step\repos\ExamWinForm\Specks\obj\Debug\Specks.SpecksForm.resources
+D:\2\less\Step\repos\ExamWinForm\Specks\obj\Debug\Specks.Properties.Resources.resources
+D:\2\less\Step\repos\ExamWinForm\Specks\obj\Debug\Specks.csproj.GenerateResource.cache
+D:\2\less\Step\repos\ExamWinForm\Specks\obj\Debug\Specks.csproj.CoreCompileInputs.cache
+D:\2\less\Step\repos\ExamWinForm\Specks\obj\Debug\Specks.exe
+D:\2\less\Step\repos\ExamWinForm\Specks\obj\Debug\Specks.pdb
+D:\2\less\Step\repos\03 WinForms\ExamWinForm\Specks\bin\Debug\Specks.exe.config
+D:\2\less\Step\repos\03 WinForms\ExamWinForm\Specks\bin\Debug\Specks.exe
+D:\2\less\Step\repos\03 WinForms\ExamWinForm\Specks\bin\Debug\Specks.pdb
+D:\2\less\Step\repos\03 WinForms\ExamWinForm\Specks\obj\Debug\Specks.csprojAssemblyReference.cache
+D:\2\less\Step\repos\03 WinForms\ExamWinForm\Specks\obj\Debug\Specks.SpecksForm.resources
+D:\2\less\Step\repos\03 WinForms\ExamWinForm\Specks\obj\Debug\Specks.Properties.Resources.resources
+D:\2\less\Step\repos\03 WinForms\ExamWinForm\Specks\obj\Debug\Specks.csproj.GenerateResource.cache
+D:\2\less\Step\repos\03 WinForms\ExamWinForm\Specks\obj\Debug\Specks.csproj.CoreCompileInputs.cache
+D:\2\less\Step\repos\03 WinForms\ExamWinForm\Specks\obj\Debug\Specks.exe
+D:\2\less\Step\repos\03 WinForms\ExamWinForm\Specks\obj\Debug\Specks.pdb
